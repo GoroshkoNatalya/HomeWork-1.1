@@ -9,7 +9,6 @@ public class HomeWorkApp {
         compareNumbers();
 
     }
-//
     public static void printThreeWorlds(){
         System.out.println("Orange");
         System.out.println("Banana");
